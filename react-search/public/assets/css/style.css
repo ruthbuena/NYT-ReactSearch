@@ -1,0 +1,16 @@
+.articleText,
+.dateText {
+	font-size: medium;
+	margin-top: 3px;
+}
+
+.removeButton,
+.saveButton {
+	margin-top: 8px;
+}
+
+.savedRow,
+.resultsRow {
+	height: 50px;
+	margin: 1%;
+}
